@@ -1,4 +1,4 @@
-# Wi-Fi-Password-Retriever-and-Uploader-Script# Wi-Fi Password Retriever Script
+# Wi-Fi-Password-Retriever-and-Uploader-Script
 
 This script retrieves Wi-Fi profiles from your Windows machine, extracts the associated passwords, and uploads them to a remote Apache server.
 
@@ -16,5 +16,3 @@ This script retrieves Wi-Fi profiles from your Windows machine, extracts the ass
 
 ## Important Notes:
 - **Security:** Be cautious when running this script as it will upload sensitive data.
-- **Permissions:** Ensure you have the necessary permissions to access the Wi-Fi profiles and passwords on the system.
-- **Apache Server:** The server URL (`http://172.24.8.58/upload.php`) should be updated to match your own server configuration.
